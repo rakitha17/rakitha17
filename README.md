@@ -12,7 +12,7 @@
 
 <div align="center">
   
-  🗯 Ask me about **React**
+  🗯 Ask me about **JavaScript, React, Internet**
   
 </div>
 
