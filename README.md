@@ -11,6 +11,10 @@
 <br />
 
 <div align="center">
+
+  👨‍💻 I'm currently working on **a buisness project : "ABIZ Lanka" web application**
+  
+  ⚡ I'm currently learning **Flutter, NextJs**
   
   🗯 Ask me about **JavaScript, React, Internet... or anything [here](https://github.com/rakitha17/rakitha17/issues/1#issue-2215175509)**
   
