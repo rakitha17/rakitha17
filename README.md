@@ -48,9 +48,9 @@
   <h3>🛠 Languages and Tools</h3>
   <br />
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,jquery,react,html,css,regex" />
+    <img src="https://skillicons.dev/icons?i=html,css,regex,ts,js,jquery,react,nodejs" />
     <br />
-    <img src="https://skillicons.dev/icons?i=bootstrap,materialui,sass,redux,npm,webpack,babel,postman,git,github,netlify" />
+    <img src="https://skillicons.dev/icons?i=nextjs,bootstrap,materialui,tailwind,sass,redux,npm,webpack,babel,postman,git,github,netlify,vercel" />
   </a>
 </div>
 
