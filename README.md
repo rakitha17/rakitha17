@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Rakitha Abeykoon</h1>
 
-<h3 align="center">A passionate frontend developer from Sri Lanka</h3>
+<h3 align="center">A passionate full-stack developer from Sri Lanka</h3>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=rakitha17&label=Profile%20views&color=0e75b6&style=flat" alt="rakitha17" /> </p>
 
@@ -14,7 +14,7 @@
 
   👨‍💻 I'm currently working on **a buisness project : "ABIZ Lanka" web application**
   
-  ⚡ I'm currently learning **Flutter, NextJs, NodeJs, PostgreSQL, MongoDB**
+  ⚡ I'm currently learning **Everything 😎**
   
   🗯 Ask me about **JavaScript, React, Internet... or anything [here](https://github.com/rakitha17/rakitha17/issues/1#issue-2215175509)**
   
@@ -48,9 +48,9 @@
   <h3>🛠 Languages and Tools</h3>
   <br />
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,regex,ts,js,jquery,react,nodejs" />
+    <img src="https://skillicons.dev/icons?i=html,css,regex,ts,js,jquery,react,nodejs,mongodb,mysql,postgres" />
     <br />
-    <img src="https://skillicons.dev/icons?i=nextjs,bootstrap,materialui,tailwind,sass,redux,npm,webpack,babel,postman,git,github,netlify,vercel" />
+    <img src="https://skillicons.dev/icons?i=nextjs,bootstrap,materialui,tailwind,sass,express,redux,prisma,npm,webpack,babel,postman,git,github,netlify,vercel,docker" />
   </a>
 </div>
 
