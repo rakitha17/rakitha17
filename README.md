@@ -37,8 +37,9 @@
   <p>
     <a href="https://twitter.com/rakitha17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rakitha17" height="30" width="40" /></a>
     <a href="https://stackoverflow.com/users/rakitha-abeykoon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="rakitha-abeykoon" height="30" width="40" /></a>
-    <a href="https://www.hackerrank.com/rakitha17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rakitha17" height="30" width="40" /></a>
-    <a href="https://www.topcoder.com/members/rakitha17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="rakitha17" height="30" width="40" /></a>
+    <a href="https://instagram.com/rakitha17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rakitha17" height="30" width="40" /></a>
+    <!-- <a href="https://www.hackerrank.com/rakitha17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rakitha17" height="30" width="40" /></a>
+    <a href="https://www.topcoder.com/members/rakitha17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="rakitha17" height="30" width="40" /></a> -->
   </p>
 </div>
 
