@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Rakitha Abeykoon</h1>
 
-<h3 align="center">A passionate full-stack developer from Sri Lanka</h3>
+<h3 align="center">A passionate MERN Stack developer from Sri Lanka</h3>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=rakitha17&label=Profile%20views&color=0e75b6&style=flat" alt="rakitha17" /> </p>
 
