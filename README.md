@@ -12,7 +12,7 @@
 
 <div align="center">
 
-  👨‍💻 I'm currently working on **a buisness project : "ABIZ Lanka" web application**
+  👨‍💻 I'm currently working on **a buisness project : "Ram Cinemas" web application**
   
   ⚡ I'm currently learning **Everything 😎**
   
