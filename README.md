@@ -12,7 +12,7 @@
 
 <div align="center">
 
-  👨‍💻 I'm currently working on **a buisness project : **
+  👨‍💻 I'm currently working on **my personal projects**
   
   ⚡ I'm currently learning **Everything 😎**
   
