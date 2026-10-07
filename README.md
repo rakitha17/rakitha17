@@ -1,4 +1,5 @@
-[![MasterHead](https://user-images.githubusercontent.com/80781196/190216139-7697aa5a-c9a0-4bd6-80bf-3aca76a2e1c8.gif)](https://user-images.githubusercontent.com)
+![MasterHead](<img width="1584" height="396" alt="linkedin_banner_ai_automation" src="https://github.com/user-attachments/assets/a359b5d7-721e-41c6-bc0e-e2cc4cc3e118" />
+)
 
 <h1 align="center">Hi 👋, I'm Rakitha Abeykoon</h1>
 
