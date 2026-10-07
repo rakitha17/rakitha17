@@ -1,3 +1,5 @@
+![MasterHead](https://raw.githubusercontent.com/rakitha17/rakitha17/refs/heads/main/linkedin_banner_ai_automation.gif)
+
 <h1 align="center">Hi 👋, I'm Rakitha Abeykoon</h1>
 
 <h3 align="center">Full-Stack AI Automation Engineer</h3>
