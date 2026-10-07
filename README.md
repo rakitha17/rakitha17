@@ -30,7 +30,7 @@
 I'm a software engineer with 3+ years of experience shipping production-grade web applications, currently at **Archmage Solutions** (Sri Lanka). I've led frontend teams, owned modules from architecture to delivery, and I'm now focused on combining full-stack engineering with AI to automate the repetitive work that eats up a team's time.
 
 - 🚀 **Building:** AI-powered workflows, internal tools, and full-stack products
-- 🎓 **Studying:** BSc (Hons) Computer Science, University of Greater Manchester
+- 🎓 **Studied:** BSc (Hons) Computer Science, University of Greater Manchester
 - 👩‍🏫 **Teaching:** Volunteer ReactJS instructor
 - 💼 **Open to:** Freelance projects in full-stack development and AI automation
 - 🗯 **Ask me about:** React, Next.js, Node.js, system design, or [anything here](https://github.com/rakitha17/rakitha17/issues/1#issue-2215175509)
@@ -51,17 +51,6 @@ I'm a software engineer with 3+ years of experience shipping production-grade we
 `NestJS` `FastAPI` `Docker` `PostgreSQL` `Python`
 <!-- Add repo link: [View repository](https://github.com/rakitha17/...) -->
 
-**🎬 Scope Cinemas — Sri Lanka's largest cinema network**
-Led the frontend team for a platform handling 21,000+ daily ticket sales across 4 theatres, including integration with the Vista enterprise ticketing system.
-`Next.js 15` `Tailwind CSS` `Prisma` `MongoDB`
-
-**🏥 Ruhunu Hospital digital ecosystem**
-Web platform, online channeling, HR management and doctor payment modules, plus a companion mobile app. Led the HR Management System from design to delivery.
-`Next.js` `Prisma` `MongoDB`
-
-**⚡ Performance wins**
-Cut a key dashboard's load time from 5s to 1.2s through database indexing and query optimisation.
-
 <!-- Add your AI automation project here, e.g.:
 **🤖 Project name** — one line on the problem it solves and the hours it saves.
 -->
@@ -80,10 +69,10 @@ Cut a key dashboard's load time from 5s to 1.2s through database indexing and qu
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,prisma" />
 
 **Data / ML**<br />
-<img src="https://skillicons.dev/icons?i=py,pandas,numpy" />
+<img src="https://skillicons.dev/icons?i=pandas,py,sklearn,numpy" />
 
 **Tools & Deployment**<br />
-<img src="https://skillicons.dev/icons?i=git,github,vercel,netlify,npm" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,heroku,vercel,netlify,npm" />
 
 </div>
 
